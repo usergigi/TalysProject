@@ -1,0 +1,501 @@
+,Project_ID,Project_Name,Sector_Name,Activities,Ressources,Days,Cost
+0,1,Project1,Leasing,168,10,190,174
+1,2,Project2,Assurances,244,18,341,275
+2,3,Project3,Banques,166,7,139,132
+3,4,Project4,Leasing,183,8,176,178
+4,5,Project5,Assurances,219,18,376,274
+5,6,Project6,Industries et Services,190,13,235,220
+6,7,Project7,Industries et Services,199,13,229,234
+7,8,Project8,Assurances,207,17,366,258
+8,9,Project9,Banques,164,6,121,141
+9,10,Project10,Banques,133,7,156,132
+10,11,Project11,Banques,168,7,146,125
+11,12,Project12,Industries et Services,180,13,293,223
+12,13,Project13,Microfinances,148,6,131,110
+13,14,Project14,Banques,149,9,138,153
+14,15,Project15,Assurances,229,16,350,264
+15,16,Project16,Assurances,249,16,376,287
+16,17,Project17,Assurances,220,15,253,270
+17,18,Project18,Assurances,243,17,379,260
+18,19,Project19,Industries et Services,201,11,232,247
+19,20,Project20,Assurances,204,16,391,263
+20,21,Project21,Industries et Services,206,12,255,210
+21,22,Project22,Leasing,197,8,218,168
+22,23,Project23,Assurances,213,17,334,249
+23,24,Project24,Assurances,256,19,333,252
+24,25,Project25,Leasing,193,8,163,183
+25,26,Project26,Banques,153,9,157,159
+26,27,Project27,Assurances,229,18,266,280
+27,28,Project28,Assurances,232,17,299,247
+28,29,Project29,Banques,160,9,152,146
+29,30,Project30,Industries et Services,192,12,293,217
+30,31,Project31,Leasing,160,9,208,189
+31,32,Project32,Banques,139,9,127,162
+32,33,Project33,Banques,156,7,176,177
+33,34,Project34,Banques,154,6,165,140
+34,35,Project35,Assurances,241,18,390,294
+35,36,Project36,Assurances,216,16,377,231
+36,37,Project37,Industries et Services,192,12,277,194
+37,38,Project38,Industries et Services,182,10,272,209
+38,39,Project39,Assurances,203,15,305,299
+39,40,Project40,Industries et Services,200,12,258,193
+40,41,Project41,Industries et Services,189,14,204,215
+41,42,Project42,Banques,169,9,153,148
+42,43,Project43,Industries et Services,213,14,232,225
+43,44,Project44,Industries et Services,182,12,240,202
+44,45,Project45,Industries et Services,186,10,213,233
+45,46,Project46,Industries et Services,190,14,214,234
+46,47,Project47,Leasing,178,9,161,183
+47,48,Project48,Microfinances,130,6,122,109
+48,49,Project49,Assurances,211,19,321,252
+49,50,Project50,Assurances,219,15,376,283
+50,51,Project51,Microfinances,103,6,133,119
+51,52,Project52,Assurances,212,15,276,232
+52,53,Project53,Assurances,247,14,374,248
+53,54,Project54,Leasing,188,9,160,184
+54,55,Project55,Assurances,240,19,364,278
+55,56,Project56,Assurances,239,19,270,283
+56,57,Project57,Microfinances,108,4,97,115
+57,58,Project58,Assurances,209,17,351,261
+58,59,Project59,Assurances,252,19,353,254
+59,60,Project60,Assurances,226,17,262,294
+60,61,Project61,Assurances,223,17,330,251
+61,62,Project62,Leasing,181,11,178,160
+62,63,Project63,Assurances,216,17,359,281
+63,64,Project64,Leasing,180,9,218,186
+64,65,Project65,Assurances,249,17,273,244
+65,66,Project66,Banques,163,9,156,123
+66,67,Project67,Banques,150,7,153,138
+67,68,Project68,Assurances,221,14,377,265
+68,69,Project69,Leasing,190,11,181,180
+69,70,Project70,Assurances,249,18,366,272
+70,71,Project71,Assurances,214,19,255,234
+71,72,Project72,Assurances,229,16,308,279
+72,73,Project73,Leasing,193,10,184,183
+73,74,Project74,Industries et Services,182,10,271,195
+74,75,Project75,Assurances,232,19,291,280
+75,76,Project76,Assurances,209,19,311,239
+76,77,Project77,Assurances,224,17,269,289
+77,78,Project78,Assurances,201,15,308,276
+78,79,Project79,Assurances,223,15,324,273
+79,80,Project80,Banques,156,8,135,158
+80,81,Project81,Assurances,238,18,276,245
+81,82,Project82,Assurances,241,17,275,254
+82,83,Project83,Leasing,170,8,184,169
+83,84,Project84,Microfinances,135,6,131,99
+84,85,Project85,Assurances,238,16,323,256
+85,86,Project86,Banques,140,7,124,141
+86,87,Project87,Industries et Services,191,13,217,194
+87,88,Project88,Leasing,195,9,213,185
+88,89,Project89,Leasing,179,11,201,172
+89,90,Project90,Microfinances,126,5,132,100
+90,91,Project91,Assurances,210,15,285,230
+91,92,Project92,Microfinances,139,4,117,95
+92,93,Project93,Microfinances,130,5,95,125
+93,94,Project94,Banques,159,9,139,156
+94,95,Project95,Assurances,251,19,399,266
+95,96,Project96,Assurances,226,14,313,266
+96,97,Project97,Leasing,184,9,216,168
+97,98,Project98,Industries et Services,192,14,291,208
+98,99,Project99,Assurances,254,19,375,243
+99,100,Project100,Industries et Services,207,13,219,222
+100,101,Project101,Industries et Services,195,11,216,221
+101,102,Project102,Industries et Services,181,14,285,227
+102,103,Project103,Banques,157,9,148,121
+103,104,Project104,Assurances,255,14,340,231
+104,105,Project105,Leasing,167,10,190,171
+105,106,Project106,Industries et Services,213,15,242,232
+106,107,Project107,Assurances,243,16,325,262
+107,108,Project108,Leasing,164,10,175,193
+108,109,Project109,Leasing,167,11,175,189
+109,110,Project110,Industries et Services,205,11,213,218
+110,111,Project111,Banques,145,8,178,159
+111,112,Project112,Assurances,242,19,314,289
+112,113,Project113,Leasing,194,11,213,173
+113,114,Project114,Assurances,250,16,286,272
+114,115,Project115,Industries et Services,212,11,241,219
+115,116,Project116,Banques,167,8,155,166
+116,117,Project117,Industries et Services,191,10,276,230
+117,118,Project118,Banques,137,7,165,122
+118,119,Project119,Assurances,208,14,357,252
+119,120,Project120,Assurances,258,18,285,230
+120,121,Project121,Industries et Services,213,10,219,238
+121,122,Project122,Assurances,241,15,376,285
+122,123,Project123,Assurances,253,15,345,232
+123,124,Project124,Leasing,191,8,193,176
+124,125,Project125,Assurances,222,17,393,266
+125,126,Project126,Assurances,225,14,367,253
+126,127,Project127,Industries et Services,207,14,278,206
+127,128,Project128,Assurances,217,14,359,289
+128,129,Project129,Industries et Services,191,10,201,247
+129,130,Project130,Assurances,236,18,265,245
+130,131,Project131,Assurances,235,19,302,290
+131,132,Project132,Assurances,243,15,300,252
+132,133,Project133,Microfinances,146,4,99,129
+133,134,Project134,Assurances,250,15,362,249
+134,135,Project135,Assurances,220,15,252,242
+135,136,Project136,Assurances,244,17,323,259
+136,137,Project137,Assurances,223,15,264,289
+137,138,Project138,Leasing,165,8,217,175
+138,139,Project139,Assurances,228,15,365,261
+139,140,Project140,Industries et Services,199,10,277,190
+140,141,Project141,Leasing,176,9,191,173
+141,142,Project142,Assurances,205,15,392,283
+142,143,Project143,Leasing,191,9,172,166
+143,144,Project144,Assurances,242,19,344,242
+144,145,Project145,Leasing,178,11,217,168
+145,146,Project146,Industries et Services,186,12,223,246
+146,147,Project147,Banques,149,7,157,137
+147,148,Project148,Banques,164,8,126,169
+148,149,Project149,Industries et Services,192,13,247,208
+149,150,Project150,Assurances,210,16,392,256
+150,151,Project151,Assurances,252,15,382,258
+151,152,Project152,Assurances,238,17,351,289
+152,153,Project153,Industries et Services,204,15,252,245
+153,154,Project154,Leasing,171,9,213,175
+154,155,Project155,Assurances,238,15,269,276
+155,156,Project156,Leasing,161,8,202,173
+156,157,Project157,Assurances,248,14,380,292
+157,158,Project158,Microfinances,128,6,118,103
+158,159,Project159,Industries et Services,189,12,284,221
+159,160,Project160,Banques,157,6,160,163
+160,161,Project161,Assurances,259,16,369,247
+161,162,Project162,Industries et Services,191,11,267,210
+162,163,Project163,Assurances,237,14,370,270
+163,164,Project164,Industries et Services,185,11,282,212
+164,165,Project165,Assurances,211,18,381,299
+165,166,Project166,Microfinances,122,5,102,124
+166,167,Project167,Industries et Services,195,14,235,225
+167,168,Project168,Industries et Services,211,15,239,204
+168,169,Project169,Assurances,252,14,274,239
+169,170,Project170,Industries et Services,202,15,205,247
+170,171,Project171,Assurances,223,19,291,235
+171,172,Project172,Assurances,248,15,385,295
+172,173,Project173,Leasing,194,8,160,177
+173,174,Project174,Banques,164,7,128,126
+174,175,Project175,Assurances,224,17,281,281
+175,176,Project176,Assurances,208,17,349,278
+176,177,Project177,Assurances,201,15,396,269
+177,178,Project178,Industries et Services,204,11,237,224
+178,179,Project179,Assurances,239,15,360,243
+179,180,Project180,Microfinances,110,4,93,121
+180,181,Project181,Assurances,212,19,252,265
+181,182,Project182,Leasing,186,9,218,163
+182,183,Project183,Microfinances,102,4,122,99
+183,184,Project184,Leasing,196,11,200,199
+184,185,Project185,Industries et Services,207,12,253,222
+185,186,Project186,Microfinances,145,4,98,112
+186,187,Project187,Industries et Services,189,14,243,221
+187,188,Project188,Industries et Services,189,14,274,196
+188,189,Project189,Microfinances,130,5,97,124
+189,190,Project190,Assurances,211,16,362,292
+190,191,Project191,Leasing,187,10,178,173
+191,192,Project192,Industries et Services,218,10,284,217
+192,193,Project193,Assurances,246,16,380,256
+193,194,Project194,Assurances,257,19,250,297
+194,195,Project195,Assurances,209,19,349,281
+195,196,Project196,Assurances,205,17,251,285
+196,197,Project197,Industries et Services,186,11,292,213
+197,198,Project198,Leasing,185,8,197,180
+198,199,Project199,Leasing,184,9,176,170
+199,200,Project200,Banques,142,7,142,123
+200,201,Project201,Leasing,176,11,169,184
+201,202,Project202,Microfinances,125,6,117,116
+202,203,Project203,Industries et Services,194,15,271,211
+203,204,Project204,Assurances,236,18,310,259
+204,205,Project205,Industries et Services,201,11,264,223
+205,206,Project206,Industries et Services,204,13,238,221
+206,207,Project207,Assurances,244,18,390,282
+207,208,Project208,Leasing,199,8,205,192
+208,209,Project209,Assurances,220,15,379,291
+209,210,Project210,Assurances,255,17,369,265
+210,211,Project211,Assurances,210,17,257,234
+211,212,Project212,Assurances,229,16,368,298
+212,213,Project213,Assurances,242,18,314,291
+213,214,Project214,Assurances,226,18,366,234
+214,215,Project215,Leasing,183,8,161,187
+215,216,Project216,Assurances,217,14,280,287
+216,217,Project217,Assurances,214,19,258,246
+217,218,Project218,Leasing,199,10,163,161
+218,219,Project219,Banques,165,9,173,142
+219,220,Project220,Assurances,258,19,377,247
+220,221,Project221,Industries et Services,185,14,294,227
+221,222,Project222,Industries et Services,217,11,294,211
+222,223,Project223,Industries et Services,194,12,290,222
+223,224,Project224,Industries et Services,206,15,284,218
+224,225,Project225,Assurances,207,14,372,246
+225,226,Project226,Microfinances,129,6,98,118
+226,227,Project227,Assurances,255,18,313,252
+227,228,Project228,Assurances,259,19,256,239
+228,229,Project229,Leasing,190,8,213,190
+229,230,Project230,Assurances,214,18,271,298
+230,231,Project231,Assurances,210,14,343,233
+231,232,Project232,Assurances,211,16,306,277
+232,233,Project233,Leasing,195,11,167,196
+233,234,Project234,Assurances,227,16,301,269
+234,235,Project235,Microfinances,147,6,133,118
+235,236,Project236,Assurances,203,18,332,245
+236,237,Project237,Banques,166,9,165,175
+237,238,Project238,Microfinances,131,4,122,120
+238,239,Project239,Assurances,211,15,306,272
+239,240,Project240,Assurances,243,16,291,252
+240,241,Project241,Industries et Services,206,11,288,194
+241,242,Project242,Assurances,227,19,334,235
+242,243,Project243,Leasing,178,10,173,175
+243,244,Project244,Industries et Services,194,11,233,211
+244,245,Project245,Assurances,226,17,376,282
+245,246,Project246,Assurances,209,17,351,283
+246,247,Project247,Microfinances,137,5,125,118
+247,248,Project248,Assurances,209,19,392,267
+248,249,Project249,Assurances,251,16,260,286
+249,250,Project250,Assurances,249,14,267,285
+250,251,Project251,Assurances,238,15,358,291
+251,252,Project252,Assurances,256,18,304,263
+252,253,Project253,Banques,157,7,169,131
+253,254,Project254,Assurances,217,17,337,299
+254,255,Project255,Banques,147,7,164,160
+255,256,Project256,Banques,162,6,167,165
+256,257,Project257,Assurances,215,18,254,232
+257,258,Project258,Assurances,208,18,362,273
+258,259,Project259,Assurances,248,16,312,278
+259,260,Project260,Microfinances,140,4,114,96
+260,261,Project261,Industries et Services,206,12,296,228
+261,262,Project262,Assurances,209,16,357,297
+262,263,Project263,Leasing,184,8,209,190
+263,264,Project264,Industries et Services,180,12,296,244
+264,265,Project265,Assurances,218,15,257,234
+265,266,Project266,Industries et Services,219,10,263,232
+266,267,Project267,Banques,134,6,125,130
+267,268,Project268,Assurances,243,18,367,232
+268,269,Project269,Microfinances,130,6,118,125
+269,270,Project270,Assurances,200,16,286,298
+270,271,Project271,Assurances,243,14,310,292
+271,272,Project272,Banques,159,9,151,138
+272,273,Project273,Industries et Services,189,10,293,190
+273,274,Project274,Microfinances,123,4,137,118
+274,275,Project275,Industries et Services,217,14,236,247
+275,276,Project276,Assurances,202,16,386,243
+276,277,Project277,Banques,153,6,175,146
+277,278,Project278,Microfinances,141,4,112,107
+278,279,Project279,Leasing,166,9,165,193
+279,280,Project280,Banques,152,6,133,127
+280,281,Project281,Industries et Services,189,12,285,203
+281,282,Project282,Assurances,219,14,371,267
+282,283,Project283,Banques,133,8,121,165
+283,284,Project284,Microfinances,106,4,124,128
+284,285,Project285,Banques,164,6,161,135
+285,286,Project286,Assurances,242,17,277,297
+286,287,Project287,Industries et Services,199,13,294,205
+287,288,Project288,Leasing,160,11,198,190
+288,289,Project289,Industries et Services,184,13,293,227
+289,290,Project290,Assurances,220,18,364,273
+290,291,Project291,Leasing,161,11,185,194
+291,292,Project292,Banques,150,9,137,153
+292,293,Project293,Assurances,210,16,374,299
+293,294,Project294,Assurances,231,14,319,278
+294,295,Project295,Microfinances,144,5,110,112
+295,296,Project296,Industries et Services,190,14,205,217
+296,297,Project297,Assurances,219,19,334,231
+297,298,Project298,Assurances,257,14,361,296
+298,299,Project299,Assurances,255,18,331,238
+299,300,Project300,Assurances,216,14,294,236
+300,301,Project301,Banques,136,8,125,149
+301,302,Project302,Industries et Services,196,15,276,198
+302,303,Project303,Banques,161,7,132,154
+303,304,Project304,Banques,151,7,158,179
+304,305,Project305,Microfinances,144,5,118,110
+305,306,Project306,Banques,165,8,143,162
+306,307,Project307,Assurances,200,19,347,288
+307,308,Project308,Assurances,247,17,277,232
+308,309,Project309,Assurances,220,16,251,277
+309,310,Project310,Leasing,169,11,167,170
+310,311,Project311,Assurances,257,19,270,262
+311,312,Project312,Assurances,235,19,372,230
+312,313,Project313,Leasing,199,9,193,167
+313,314,Project314,Microfinances,116,6,132,109
+314,315,Project315,Banques,140,6,120,165
+315,316,Project316,Industries et Services,197,10,282,240
+316,317,Project317,Leasing,180,11,197,179
+317,318,Project318,Industries et Services,202,11,275,191
+318,319,Project319,Microfinances,147,4,113,101
+319,320,Project320,Assurances,202,19,390,290
+320,321,Project321,Industries et Services,196,14,270,222
+321,322,Project322,Assurances,213,16,361,238
+322,323,Project323,Leasing,177,11,193,195
+323,324,Project324,Microfinances,128,5,100,100
+324,325,Project325,Leasing,179,9,177,169
+325,326,Project326,Leasing,187,10,177,183
+326,327,Project327,Assurances,232,15,320,278
+327,328,Project328,Industries et Services,219,14,291,221
+328,329,Project329,Assurances,250,17,333,258
+329,330,Project330,Leasing,161,8,184,177
+330,331,Project331,Assurances,258,17,314,288
+331,332,Project332,Assurances,232,19,256,291
+332,333,Project333,Microfinances,144,5,106,99
+333,334,Project334,Microfinances,113,4,127,112
+334,335,Project335,Leasing,189,9,195,165
+335,336,Project336,Assurances,250,16,332,271
+336,337,Project337,Assurances,239,17,356,236
+337,338,Project338,Assurances,236,16,393,285
+338,339,Project339,Banques,152,9,123,166
+339,340,Project340,Assurances,248,18,268,273
+340,341,Project341,Banques,137,8,171,135
+341,342,Project342,Leasing,160,9,205,179
+342,343,Project343,Banques,143,7,127,149
+343,344,Project344,Microfinances,114,6,99,115
+344,345,Project345,Leasing,169,10,211,167
+345,346,Project346,Industries et Services,203,11,212,247
+346,347,Project347,Assurances,251,19,252,231
+347,348,Project348,Microfinances,146,4,101,103
+348,349,Project349,Assurances,249,18,287,238
+349,350,Project350,Microfinances,121,6,126,97
+350,351,Project351,Assurances,259,19,297,258
+351,352,Project352,Banques,169,9,123,167
+352,353,Project353,Assurances,213,14,372,242
+353,354,Project354,Industries et Services,200,15,291,232
+354,355,Project355,Assurances,225,18,386,291
+355,356,Project356,Leasing,197,11,180,177
+356,357,Project357,Leasing,186,9,165,197
+357,358,Project358,Microfinances,108,6,104,120
+358,359,Project359,Assurances,252,14,385,234
+359,360,Project360,Industries et Services,192,13,286,204
+360,361,Project361,Assurances,253,17,297,236
+361,362,Project362,Industries et Services,219,11,227,211
+362,363,Project363,Assurances,211,14,395,243
+363,364,Project364,Assurances,234,14,345,244
+364,365,Project365,Assurances,201,14,395,286
+365,366,Project366,Assurances,202,17,336,281
+366,367,Project367,Assurances,255,19,383,297
+367,368,Project368,Assurances,246,19,285,245
+368,369,Project369,Banques,161,8,156,140
+369,370,Project370,Banques,167,9,142,153
+370,371,Project371,Banques,166,6,132,141
+371,372,Project372,Leasing,185,10,180,176
+372,373,Project373,Assurances,217,14,273,231
+373,374,Project374,Assurances,232,18,398,231
+374,375,Project375,Leasing,187,11,212,165
+375,376,Project376,Industries et Services,202,15,241,202
+376,377,Project377,Leasing,174,10,216,168
+377,378,Project378,Industries et Services,211,15,231,205
+378,379,Project379,Assurances,250,14,374,236
+379,380,Project380,Industries et Services,181,15,225,249
+380,381,Project381,Industries et Services,215,10,242,196
+381,382,Project382,Industries et Services,205,12,277,233
+382,383,Project383,Industries et Services,206,14,289,201
+383,384,Project384,Industries et Services,203,12,292,191
+384,385,Project385,Assurances,209,14,256,265
+385,386,Project386,Assurances,243,16,396,293
+386,387,Project387,Leasing,196,10,200,189
+387,388,Project388,Assurances,215,15,279,250
+388,389,Project389,Microfinances,117,4,130,103
+389,390,Project390,Assurances,230,17,277,258
+390,391,Project391,Assurances,247,18,291,264
+391,392,Project392,Leasing,191,10,188,194
+392,393,Project393,Microfinances,146,5,102,117
+393,394,Project394,Microfinances,128,4,138,101
+394,395,Project395,Assurances,207,14,312,246
+395,396,Project396,Assurances,224,15,281,255
+396,397,Project397,Assurances,208,14,257,294
+397,398,Project398,Industries et Services,198,12,280,206
+398,399,Project399,Leasing,187,11,204,197
+399,400,Project400,Microfinances,134,5,96,97
+400,401,Project401,Assurances,211,14,281,270
+401,402,Project402,Leasing,196,9,183,160
+402,403,Project403,Assurances,255,19,374,231
+403,404,Project404,Industries et Services,211,12,275,230
+404,405,Project405,Microfinances,133,5,92,114
+405,406,Project406,Leasing,182,9,189,182
+406,407,Project407,Microfinances,127,6,139,119
+407,408,Project408,Banques,135,9,173,167
+408,409,Project409,Industries et Services,205,11,276,196
+409,410,Project410,Assurances,205,14,314,255
+410,411,Project411,Industries et Services,189,10,252,218
+411,412,Project412,Industries et Services,217,14,268,195
+412,413,Project413,Leasing,161,9,212,193
+413,414,Project414,Leasing,186,9,214,167
+414,415,Project415,Assurances,253,15,290,281
+415,416,Project416,Leasing,194,9,161,169
+416,417,Project417,Assurances,205,17,290,253
+417,418,Project418,Industries et Services,186,10,295,193
+418,419,Project419,Assurances,223,15,324,292
+419,420,Project420,Industries et Services,214,12,210,246
+420,421,Project421,Microfinances,101,6,109,112
+421,422,Project422,Industries et Services,207,10,261,232
+422,423,Project423,Industries et Services,184,15,261,231
+423,424,Project424,Assurances,214,16,352,290
+424,425,Project425,Industries et Services,196,10,250,240
+425,426,Project426,Industries et Services,203,11,286,205
+426,427,Project427,Leasing,170,11,203,169
+427,428,Project428,Leasing,196,10,210,186
+428,429,Project429,Leasing,160,11,163,163
+429,430,Project430,Microfinances,107,6,92,126
+430,431,Project431,Microfinances,144,5,108,106
+431,432,Project432,Microfinances,146,6,110,105
+432,433,Project433,Assurances,239,19,290,257
+433,434,Project434,Microfinances,105,4,118,102
+434,435,Project435,Assurances,250,14,309,230
+435,436,Project436,Assurances,233,16,353,295
+436,437,Project437,Assurances,218,17,395,245
+437,438,Project438,Assurances,223,19,351,231
+438,439,Project439,Assurances,247,18,309,230
+439,440,Project440,Assurances,206,18,281,257
+440,441,Project441,Assurances,221,16,252,262
+441,442,Project442,Assurances,223,15,309,232
+442,443,Project443,Industries et Services,190,13,269,207
+443,444,Project444,Industries et Services,184,15,259,218
+444,445,Project445,Leasing,167,11,166,172
+445,446,Project446,Assurances,228,15,284,252
+446,447,Project447,Assurances,223,17,256,249
+447,448,Project448,Banques,142,8,146,169
+448,449,Project449,Leasing,180,9,193,181
+449,450,Project450,Assurances,253,16,342,267
+450,451,Project451,Leasing,170,8,165,162
+451,452,Project452,Leasing,185,8,162,172
+452,453,Project453,Leasing,180,8,203,194
+453,454,Project454,Microfinances,137,6,111,123
+454,455,Project455,Leasing,177,9,218,199
+455,456,Project456,Assurances,211,16,386,264
+456,457,Project457,Leasing,181,8,171,165
+457,458,Project458,Microfinances,145,6,107,118
+458,459,Project459,Industries et Services,208,10,223,218
+459,460,Project460,Assurances,220,14,350,277
+460,461,Project461,Industries et Services,180,10,283,194
+461,462,Project462,Leasing,188,11,170,172
+462,463,Project463,Industries et Services,209,15,218,209
+463,464,Project464,Assurances,223,14,307,288
+464,465,Project465,Assurances,225,15,387,271
+465,466,Project466,Microfinances,138,6,98,115
+466,467,Project467,Assurances,223,18,320,269
+467,468,Project468,Assurances,232,19,282,280
+468,469,Project469,Assurances,231,19,279,249
+469,470,Project470,Assurances,226,17,384,290
+470,471,Project471,Assurances,217,19,396,235
+471,472,Project472,Assurances,231,18,298,292
+472,473,Project473,Assurances,204,18,289,250
+473,474,Project474,Industries et Services,204,14,259,239
+474,475,Project475,Microfinances,105,4,114,103
+475,476,Project476,Leasing,167,8,203,186
+476,477,Project477,Leasing,160,11,204,162
+477,478,Project478,Assurances,257,19,252,253
+478,479,Project479,Microfinances,105,6,139,128
+479,480,Project480,Leasing,194,10,210,181
+480,481,Project481,Industries et Services,190,12,212,222
+481,482,Project482,Industries et Services,184,14,233,213
+482,483,Project483,Assurances,213,19,269,254
+483,484,Project484,Assurances,234,14,362,235
+484,485,Project485,Leasing,197,8,188,182
+485,486,Project486,Assurances,219,19,324,237
+486,487,Project487,Assurances,254,16,291,246
+487,488,Project488,Assurances,254,18,280,297
+488,489,Project489,Assurances,250,14,331,298
+489,490,Project490,Assurances,228,17,333,298
+490,491,Project491,Industries et Services,190,12,279,206
+491,492,Project492,Industries et Services,214,14,228,223
+492,493,Project493,Industries et Services,185,10,204,243
+493,494,Project494,Banques,130,8,132,128
+494,495,Project495,Assurances,218,15,287,288
+495,496,Project496,Assurances,232,15,369,269
+496,497,Project497,Assurances,241,16,292,245
+497,498,Project498,Industries et Services,190,15,271,246
+498,499,Project499,Assurances,238,15,288,279
+499,500,Project500,Microfinances,135,6,130,109

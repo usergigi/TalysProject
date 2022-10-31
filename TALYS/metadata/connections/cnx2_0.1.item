@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_H8NwII5NEeuabLy37W2IEg" name="cnx2" id="__a4oQI5MEeuabLy37W2IEg" label="cnx2" dataPackage="_H-FYYI5NEeuabLy37W2IEg" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:5432/Projeqtor_Dw?" dbVersionString="PRIOR_TO_V9" Port="5432" Username="postgres" Password="enc:system.encryption.key.v1:kMyrEh7MDPZt6vTl2OH/Ssl5HvXuNTJJ5DCLcSysp9Eug23H3EjzutZJ1Sk=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="Projeqtor_Dw" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_H8NwIY5NEeuabLy37W2IEg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_H9LZcI5NEeuabLy37W2IEg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_H9LZcY5NEeuabLy37W2IEg" tag="Status" value=""/>
+    <taggedValue xmi:id="_H9LZco5NEeuabLy37W2IEg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_H9LZc45NEeuabLy37W2IEg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_H9LZdI5NEeuabLy37W2IEg" tag="Description" value=""/>
+    <taggedValue xmi:id="_H9LZdY5NEeuabLy37W2IEg" tag="Author" value=""/>
+    <taggedValue xmi:id="_H9LZdo5NEeuabLy37W2IEg" tag="otherParameter"/>
+    <taggedValue xmi:id="_H9m3QI5NEeuabLy37W2IEg" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_H9m3QY5NEeuabLy37W2IEg" tag="DB ProductVersion" value="13.2"/>
+    <taggedValue xmi:id="_H9m3Qo5NEeuabLy37W2IEg" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_H8NwIo5NEeuabLy37W2IEg" key="CONN_PARA_KEY_USERNAME" value="postgres"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_H-FYYI5NEeuabLy37W2IEg" name="Projeqtor_Dw" dataManager="_H8NwII5NEeuabLy37W2IEg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_H-FYYY5NEeuabLy37W2IEg" name=""/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
